@@ -1,20 +1,32 @@
 # 前端学习资料
 
-## HTML+CSS+JS  
-1. [百度前端技术学院](ife.baidu.com)
-2. [ES6学习手册](http://es6.ruanyifeng.com/)
+## HTML+CSS+JS
+
+1. [百度前端技术学院](http://ife.baidu.com)
+2. [ES6 学习手册](http://es6.ruanyifeng.com/)
+3. [Airbnb JavaScript 编码规范 :cn:](https://github.com/yuche/javascript)
 
 ## React
-1. [React官网教程](https://facebook.github.io/react/)
-2. [精益 React 学习指南](https://zhuanlan.zhihu.com/p/21107252)
-3. [webpack demo](https://github.com/ruanyf/webpack-demos)
-1. [7分钟了解React](https://egghead.io/lessons/react-react-in-7-minutes)
-1. [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
-1. [learning-react](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
 
-## git
-1. https://github.com/pcottle/learnGitBranching
-2. https://github.com/progit/progit
+1. [React 官网教程](https://facebook.github.io/react/)
+2. [精益 React 学习指南](https://zhuanlan.zhihu.com/p/21107252)
+3. [Webpack Demos](https://github.com/ruanyf/webpack-demos)
+1. [7 分钟了解 React](https://egghead.io/lessons/react-react-in-7-minutes)
+1. [React Starter Kit](https://github.com/kriasoft/react-starter-kit)
+1. [Learning React](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+7. [React 技术栈系列 by ruanyf](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+## React Components and Tools
+
+1. [Awesome React Components](https://github.com/enaqx/awesome-react#components)
+2. [Ant Design of React](https://ant.design/docs/react/introduce)
+3. [Dva Framework](https://github.com/dvajs/dva)
+
+## Git
+
+1. [Learn Git Branching](https://github.com/pcottle/learnGitBranching)
+2. [Pro Git](https://github.com/progit/progit)
+3. [Git Flow](https://github.com/nvie/gitflow)
 
 ## D3 / ECharts
 
