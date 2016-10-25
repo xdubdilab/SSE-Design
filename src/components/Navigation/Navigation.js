@@ -26,7 +26,7 @@ export default class Navigation extends Component{
 
   initKeyPath(menu) {
     //设计算法实现getKeyPath的功能，不需要再配置
-    
+
   }
   //
   // generateNav(menu) {
@@ -49,7 +49,8 @@ export default class Navigation extends Component{
   // }
 
   handleClick(e) {
-    this.setState({current: e.key, openKeys: []});
+    let state = _.assign(this.state, {current: e.key});
+    this.setState(state);
   }
 
   onOpenChange(openKeys) {
