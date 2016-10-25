@@ -13,8 +13,9 @@ SSE 实验室通用组件库
 ###已完成
 1. 页面结构基本确认
 2. 现在可以访问 127.0.0.1:8080  以及 127.0.0.1:8080/#/page1
+3. 修改导航菜单组件，实现通过配置json信息修改菜单
 
 ### 待完成
-1. 目前antd提供的导航数据配置不太方便，修改导航数据配置逻辑
-2. 继续完善目前的页面结构
-3. react-router从hashHistory 换成 browserHistory
+1. header组件的实现
+2. react-router从hashHistory 换成 browserHistory
+3. 继续完善目前的页面结构
