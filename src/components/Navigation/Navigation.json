@@ -4,21 +4,21 @@
     "text": "1"
   },
   {
-    "key": "sub1",
+    "key": "2",
     "text": "2",
     "children":
     [
       {
-        "key": "sub2",
+        "key": "3",
         "text": "3",
         "children": [
           {
-          "key": "2",
+          "key": "4",
           "text": "4"
           }
         ]
       }, {
-        "key": "3",
+        "key": "5",
         "text": "5"
         }
      ]
