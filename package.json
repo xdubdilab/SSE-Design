@@ -1,0 +1,46 @@
+{
+  "name": "sse-design",
+  "version": "1.0.0",
+  "description": "SSE 实验室通用组件库",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "antd": "^2.1.0",
+
+    "json-loader": "^0.5.4",
+    "lodash": "^4.15.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "*",
+    "react-router": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.22.0",
+    "http-server": "^0.8.5",
+    "open-browser-webpack-plugin": "0.0.2",
+    "react-css-modules": "^3.7.10",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1",
+    "babel-plugin-import": "^1.0.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdsselab/SSE-Design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdsselab/SSE-Design/issues"
+  },
+  "homepage": "https://github.com/xdsselab/SSE-Design#readme"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "key": "1",
+    "text": "1"
+  },
+  {
+    "key": "sub1",
+    "text": "2",
+    "children":
+    [
+      {
+        "key": "sub2",
+        "text": "3",
+        "children": [
+          {
+          "key": "2",
+          "text": "4"
+          }
+        ]
+      }, {
+        "key": "3",
+        "text": "5"
+        }
+     ]
+  }
+]
