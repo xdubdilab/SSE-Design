@@ -14,9 +14,7 @@ export default class App extends Component {
     return (
       <div className="sse-layout">
 
-        <Header>
-        
-        </Header>
+        <Header />
 
         <div className="sse-layout-sider">
           <Navigation />

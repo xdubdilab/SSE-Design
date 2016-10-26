@@ -1,0 +1,23 @@
+{
+  "logo": "./logo-171x40.png",
+  "userlist": [
+    {
+      "key": "1",
+      "text": "个人信息",
+      "href": "page1",
+      "icon": "user"
+    },
+    {
+      "key": "2",
+      "text": "消息（10）",
+      "href": "",
+      "icon": "message"
+    },
+    {
+      "key": "3",
+      "text": "退出",
+      "href": "",
+      "icon": "logout"
+    }
+  ]
+}
