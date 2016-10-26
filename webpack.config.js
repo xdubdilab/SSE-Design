@@ -17,6 +17,7 @@ module.exports = {
 
       },
       { test: /\.css$/, loader: 'style-loader!css-loader'},
+      { test: /\.(png|jpg)$/, loader: 'url-loader?limit=8192'},
       // { test: /\.css$/, loader: 'style!css-loader?modules&importLoaders=1&localIdentName=[name]__[local]___[hash:base64:5]' },
       { test: /\.woff$/, loader: 'url-loader?limit=10000&mimetype=application/font-woff'},
       { test: /\.ttf$/, loader: 'url-loader?limit=10000&mimetype=application/octet-streasm'},

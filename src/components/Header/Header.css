@@ -1,0 +1,32 @@
+.sse-header {
+  width: 100%;
+  min-height: 55px;
+}
+.sse-header.default {
+  background-color: #2b3643;
+}
+.sse-header .logo {
+  display: block;
+  float: left;
+  margin:0 20px;
+  margin-top: 10px;
+}
+.sse-header .userinfo {
+  display: block;
+  float: right;
+  padding: 10px;
+  margin-right: 50px;
+  width: 200px;
+  height: 55px;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 40px;
+  color: white;
+}
+.sse-header .userinfo:hover {
+  background-color: #637998;
+}
+.sse-header .userinfo .userImage {
+  font-size: 30px;
+  margin-top: 5px;
+}
