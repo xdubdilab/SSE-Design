@@ -31,7 +31,7 @@
     "babel-plugin-import": "^1.0.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --hot --inline",
+    "start": "webpack-dev-server --hot --inline --history-api-fallback",
     "build": "webpack -p && webpack-dev-server --hot --inline --colors --progress --content-base src/"
   },
   "repository": {

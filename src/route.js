@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Router, Route, browserHistory} from 'react-router'
 import App from './App'
 import page1 from './pages/page1'
-import buttonPage from './pages/buttons'
+import buttonPage from './pages/Buttons/buttons'
 
 export default class route extends Component {
   render() {

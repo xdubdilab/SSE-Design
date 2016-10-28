@@ -1,0 +1,11 @@
+.description {
+  margin: 10px 20px;
+}
+.displayArea {
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #F7F7F7;
+}
+.displayArea button {
+  margin-left: 10px;
+}
