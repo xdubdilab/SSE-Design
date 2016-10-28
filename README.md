@@ -16,8 +16,9 @@ SSE 实验室通用组件库
 3. 修改导航菜单组件，实现通过配置json信息修改菜单
 4. header组件的实现，通过配置json信息修改下拉菜单以及logo图片，有点丑。。。
 5. react-router从hashHistory 换成 browserHistory
+6. Button页面，集合Antd所有的Button ,完成度60%，完成基本按钮的样式
 
 ### 待完成
-1. Button页面，集合Antd所有的Button
+1. button样式的自定义和button所有设置属性说明
 2. Icon页面，看看能不能集合别的icon素材进来
 3. 继续完善目前的页面结构
